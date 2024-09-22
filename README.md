@@ -1,2 +1,2 @@
 # daily-coding
-Practice LC
+Practice DSA
